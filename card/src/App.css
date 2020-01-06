@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+  margin: 20px;
+  text-align: center;
+  justify-content: flex-start;
+}
+
+.card-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  width: 400px;
+  text-align: center;
+  margin: 10px;
+}
+
+.card-details button {
+  margin-bottom: 10px;
+}
+
+.displayText {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
