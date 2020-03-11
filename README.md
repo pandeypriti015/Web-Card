@@ -2,7 +2,7 @@
 
 This is sample UI for displaying the USER profile details using complete CSS.
 
-Displayed the details using cards and is wrapped inside the screen width.
+Displayed the details(image, name, date of birth, email) using cards and is wrapped inside the screen width.
 
 Installation Clone this repository:
 https://github.com/pandeypriti015/Web-Card.git
@@ -17,3 +17,5 @@ https://gorest.co.in/
 Token is generated, copy that token and paste it in the axios get method. Start the project:
 
 npm start
+
+Thank-you
